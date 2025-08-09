@@ -1,6 +1,4 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=#b897ff&height=120&text=Hi!%20👋&animation=scaleIn&fontColor=000000&fontSize=70" />
-    </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi! 👋 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> Hi! 👋 </div> 
